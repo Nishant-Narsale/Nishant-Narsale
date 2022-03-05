@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishant</h1>
-<h3 align="center"> Full Stack Developer | React JS | Django | ML | Linux | Ethical Hacking | CTF Solver </h3>
+<h3 align="center"> Full Stack Developer | React JS | Django | Machine Learning | Deep Learning | Linux | Ethical Hacking | CTF Solver </h3>
 
 <h1 align = "center">
 
