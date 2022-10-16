@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Working at Cerebralx Innovation Hub as a Development Intern
+- 🔭 I’m currently Working at Kanan Park as a Robotics Engineer Intern
 
 - 🌱 I’m currently learning **Flutter, Machine Learning, DSA, Bash Scripts**
 
