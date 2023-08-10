@@ -10,11 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Working at
+-     Passionate to learn any technology
 
-- 🌱 I’m currently learning **Flutter, Machine Learning, DSA, Bash Scripts**
-
-- 💬 Ask me about ReactJS, Python, Django, Linux
+- 💬 Ask me about Full Stack Development, Artificial Intelligence, Robotics, Cyber Security
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/Nishant-Narsale?tab=repositories)**
 
