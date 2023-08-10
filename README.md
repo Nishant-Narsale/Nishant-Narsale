@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
--     Passionate to learn any technology
+-  Passionate to learn any technology
 
 - 💬 Ask me about Full Stack Development, Artificial Intelligence, Robotics, Cyber Security
 
