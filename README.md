@@ -25,10 +25,8 @@
     <a> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
     <a style="padding-right:8px;"  target="_blank"> <img src="https://img.icons8.com/color/48/26e07f/react-native.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/26e07f/css3.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/144/26e07f/html-5--v1.png"  width="45" height="45"/> </a>   
-    <a> <img src="[https://img.icons8.com/color/48/26e07f/c++.png](https://img.icons8.com/?size=512&id=40669&format=png)"/></a>
+    <a> <img src="https://img.icons8.com/color/144/26e07f/html-5--v1.png"  width="45" height="45"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
      
 </p>
 
