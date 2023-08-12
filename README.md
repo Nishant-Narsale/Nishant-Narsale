@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/Nishant-Narsale?tab=repositories)**
 
-- 📫 How to reach me **nishantnarsale510@gmail.com** feel free to mail me
+- 📫 How to reach me **nishantnarsale510@gmail.com** (feel free to mail me)
 
 ## 🚀 Languages and Tools:
 
